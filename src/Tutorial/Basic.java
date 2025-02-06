@@ -4,7 +4,7 @@ public class Basic {
 	
 	public  void message() {
 	
-System.out.println("Hi");
+System.out.println("How are you");
 
 }
 }
